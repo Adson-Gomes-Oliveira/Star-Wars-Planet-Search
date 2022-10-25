@@ -22,7 +22,7 @@ comportamentais.
 <br/>
 Este código foi desenvolvido individualmente, utilizando Javascript, React, HTML e CSS.
 
-Pagina de busca e consultas de planetas do universo Star Wars utilizando gerenciamente de estado global e hooks ( Context API ).
+Pagina de busca e consultas de planetas do universo Star Wars utilizando gerenciamento de estado global e hooks ( Context API ).
 
 ---
 
